@@ -281,6 +281,7 @@ main {
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
   margin-bottom: 10px;
+  padding: 10px;
 }
 
 .info-content .title {
